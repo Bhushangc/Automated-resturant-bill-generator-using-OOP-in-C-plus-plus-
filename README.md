@@ -1,4 +1,5 @@
-# Automated-resturant-bill-generator-using-OOP-in-C-
+# Automated-resturant-bill-generator-using-OOP-in-C++-
+The main goal of this project was to properly learn object oriented programming
 In this project I created a automated billing system for a restaurant using c++
 Problem Specification: 
 You are required to create an MVP (Minimal Viable Product) to take customer orders for a local ethnic food restaurant in Kathmandu. The restaurant offers 10 different types of food dishes, taken from the local ethnic food culture. The restaurant operates with limited dishes and limited staff. You are required to create a prototype of order taking system to ease the working process within the restaurant. Your program should have the following functionalities: 
